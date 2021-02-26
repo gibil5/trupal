@@ -1,1 +1,1 @@
-web: gunicorn games.wsgi --log-file -
+web: gunicorn trupal.wsgi --log-file -
